@@ -3,8 +3,9 @@
 
 @import "no-style-please";
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Lexend:wght@100..900&family=Manrope:wght@200..800&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/computer-modern-web-font@1.0.0/fonts.css');
 body {
-  font-family: 'Manrope';
+  font-family: 'Computer Modern', 'CMU Serif', 'CMU Sans Serif', serif;
   font-size: 18px;
   color: #171a21;
   line-height: 1.6;
